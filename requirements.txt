@@ -1,4 +1,4 @@
-python-dateutil==2.8.1
+python-dateutil==2.9.0.post0
 inflection==0.5.1
 PyJWT==1.7.1
 requests==2.25.1
